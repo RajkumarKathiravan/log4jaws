@@ -1,0 +1,26 @@
+main method Executed
+main method Executed
+Exception may occur
+ INFO 2025-07-30 11:38:49,368 [main] com.Application - main method Executed 
+ INFO 2025-07-30 11:38:49,680 [restartedMain] com.Application - main method Executed 
+ WARN 2025-07-30 11:38:52,107 [restartedMain] com.Application - Exception may occur 
+   INFO 2025-07-30 11:43:05,868 [main] com.Application - main method Executed 
+   INFO 2025-07-30 11:43:06,215 [restartedMain] com.Application - main method Executed 
+   WARN 2025-07-30 11:43:08,669 [restartedMain] com.Application - Exception may occur 
+INFO    2025-07-30 11:43:41,512 [main] com.Application - main method Executed 
+INFO    2025-07-30 11:43:41,843 [restartedMain] com.Application - main method Executed 
+WARN    2025-07-30 11:43:44,458 [restartedMain] com.Application - Exception may occur 
+2025-07-30 11:44:33,578 [main] com.Application - main method Executed 
+2025-07-30 11:44:33,922 [restartedMain] com.Application - main method Executed 
+2025-07-30 11:44:36,551 [restartedMain] com.Application - Exception may occur 
+INFO 2025-07-30 11:45:14,860 [main] com.Application - main method Executed 
+INFO 2025-07-30 11:45:15,210 [restartedMain] com.Application - main method Executed 
+WARN 2025-07-30 11:45:17,663 [restartedMain] com.Application - Exception may occur 
+INFO                 2025-07-30 11:47:26,128 [main] com.Application - main method Executed 
+INFO                 2025-07-30 11:47:26,464 [restartedMain] com.Application - main method Executed 
+WARN                 2025-07-30 11:47:28,996 [restartedMain] com.Application - Exception may occur 
+INFO    2025-08-06 16:28:18,663 [main] com.Application - main method Executed 
+INFO    2025-08-06 16:28:19,046 [restartedMain] com.Application - main method Executed 
+WARN    2025-08-06 16:28:21,952 [restartedMain] com.Application - Exception may occur 
+INFO    2025-08-06 16:32:23,703 [restartedMain] com.Application - main method Executed 
+WARN    2025-08-06 16:32:24,449 [restartedMain] com.Application - Exception may occur 
